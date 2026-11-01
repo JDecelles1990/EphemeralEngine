@@ -42,3 +42,4 @@ public sealed record LinterReport(
             HasWarnings: warnings > 0);
     }
 }
+

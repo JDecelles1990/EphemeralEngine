@@ -19,3 +19,4 @@ C:\LAB\Python\EphemeralEngine\src\Modules\AICriticAndTraining\Infrastructure\obj
 C:\LAB\Python\EphemeralEngine\src\Modules\AICriticAndTraining\Infrastructure\obj\Debug\net9.0\refint\RunbookForge.Modules.AICriticAndTraining.Infrastructure.dll
 C:\LAB\Python\EphemeralEngine\src\Modules\AICriticAndTraining\Infrastructure\obj\Debug\net9.0\RunbookForge.Modules.AICriticAndTraining.Infrastructure.pdb
 C:\LAB\Python\EphemeralEngine\src\Modules\AICriticAndTraining\Infrastructure\obj\Debug\net9.0\ref\RunbookForge.Modules.AICriticAndTraining.Infrastructure.dll
+C:\LAB\Python\EphemeralEngine\src\Modules\AICriticAndTraining\Infrastructure\obj\Debug\net9.0\RunbookForge.Modules.AICriticAndTraining.Infrastructure.sourcelink.json

@@ -19,3 +19,4 @@ C:\LAB\Python\EphemeralEngine\src\Modules\TicketIngestion\Infrastructure\obj\Deb
 C:\LAB\Python\EphemeralEngine\src\Modules\TicketIngestion\Infrastructure\obj\Debug\net9.0\refint\RunbookForge.Modules.TicketIngestion.Infrastructure.dll
 C:\LAB\Python\EphemeralEngine\src\Modules\TicketIngestion\Infrastructure\obj\Debug\net9.0\RunbookForge.Modules.TicketIngestion.Infrastructure.pdb
 C:\LAB\Python\EphemeralEngine\src\Modules\TicketIngestion\Infrastructure\obj\Debug\net9.0\ref\RunbookForge.Modules.TicketIngestion.Infrastructure.dll
+C:\LAB\Python\EphemeralEngine\src\Modules\TicketIngestion\Infrastructure\obj\Debug\net9.0\RunbookForge.Modules.TicketIngestion.Infrastructure.sourcelink.json

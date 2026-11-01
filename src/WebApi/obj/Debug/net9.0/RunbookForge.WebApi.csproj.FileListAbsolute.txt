@@ -197,3 +197,4 @@ C:\LAB\Python\EphemeralEngine\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnaly
 C:\LAB\Python\EphemeralEngine\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\LAB\Python\EphemeralEngine\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\LAB\Python\EphemeralEngine\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\LAB\Python\EphemeralEngine\src\WebApi\obj\Debug\net9.0\RunbookForge.WebApi.sourcelink.json

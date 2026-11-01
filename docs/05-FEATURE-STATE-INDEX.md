@@ -42,7 +42,7 @@ All tasks progress through a deterministic lifecycle:
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `RF-RUNBOOK-001` | `runbooks` PostgreSQL Schema Migrations & EF Core DbContext | `runbooks` | `DB-01`, `PG-STD` | `COMPLETED` | Verified: RunbookDbContext, 4 entities, EF Core migration Initial_Runbooks_Schema with xmin concurrency & GIN indexes. |
 | `RF-RUNBOOK-002` | Markdig AST Pipeline & Custom Container Block Parsers | `RunbookEngine.Infra` | `MD-STD`, `CS-STD` | `COMPLETED` | Verified: Custom Markdig AST container parsers, nested block handling, code fence attributes, 7/7 xUnit tests passed. |
-| `RF-RUNBOOK-003` | Diagnostic Linter Engine (`RF001`–`RF099` Rules) | `RunbookEngine.Domain` / `RunbookEngine.App` | `MD-STD`, `01-REG` | `IN_PROGRESS` | Verified: Batch A rules RF001–RF015 implemented & tested (RunbookLinterEngine, LintRunbookQuery/Handler, score arithmetic, 82 xUnit tests passed). |
+| `RF-RUNBOOK-003` | Diagnostic Linter Engine (`RF001`–`RF099` Rules) | `RunbookEngine.Domain` / `RunbookEngine.App` | `MD-STD`, `01-REG` | `COMPLETED` | Verified: Full 30-rule linter engine completed (RF001–RF030: Metadata, Structure, Safety & Security), score calculation, MediatR feature handler, and 113 xUnit rule tests passed with 100% pass rate. |
 | `RF-RUNBOOK-004` | AST to Workflow DAG Compiler & React Flow Schema Serialization | `RunbookEngine.Domain` / `RunbookEngine.App` | `MD-STD`, `01-REG` | `COMPLETED` | Verified: `WorkflowDagCompiler` (3-colour DFS cycle detection, Kahn ranking, lane layout), `ReactFlowSerializer`, `CompileRunbookWorkflowHandler` persisting `runbooks.workflows`; 36 workflow tests passed. |
 | `RF-RUNBOOK-005` | React Flow Step Graph Visualizer & Markdown Editor UI | `Frontend` | `TS-STD`, `01-REG` | `PLANNED` | Interactive step graph canvas with inline lint squiggles. |
 | `RF-RUNBOOK-006` | Runbook Draft & Version Publication MediatR Handlers | `RunbookEngine.App` | `01-REG`, `03-SOP` | `PLANNED` | Command handlers with optimistic concurrency (`xmin`). Renumbered from the former `RF-RUNBOOK-004`. |
@@ -53,7 +53,7 @@ All tasks progress through a deterministic lifecycle:
 
 | Task ID | Task Title & Scope | Target Schema | Context Files | Status | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| `RF-INGEST-001` | `ingestion` PostgreSQL Schema Migrations & DbContext | `ingestion` | `DB-02`, `PG-STD` | `PLANNED` | `sync_jobs`, `raw_tickets`, `ticket_hashes`. |
+| `RF-INGEST-001` | `ingestion` PostgreSQL Schema Migrations & DbContext | `ingestion` | `DB-02`, `PG-STD` | `IN_PROGRESS` | `sync_jobs`, `raw_tickets`, `ticket_hashes`. |
 | `RF-INGEST-002` | Read-Only F7Hub SQLite Adapter (`F7HubReadOnlyDbContext`) | `TicketIngestion.Infra` | `DB-06`, `04-GUARD` | `PLANNED` | Enforce `Data Source=f7hub.db;Mode=ReadOnly;Cache=Shared;` and exception on `SaveChanges`. |
 | `RF-INGEST-003` | Incident Sync Worker & Content Deduplication Pipeline | `TicketIngestion.App` | `01-REG`, `02-EVENTS` | `PLANNED` | SHA256 content hashing & `TicketBatchIngestedEvent`. |
 

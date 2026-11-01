@@ -47,8 +47,10 @@ public record RunbookAstDocument(
     IReadOnlyList<string> EscalationTriggers,
     string? RawMarkdown = null,
     IReadOnlyList<string>? Symptoms = null,
-    IReadOnlyList<string>? RawSectionsFound = null)
+    IReadOnlyList<string>? RawSectionsFound = null,
+    IReadOnlyList<string>? EmptySections = null)
 {
     public IReadOnlyList<string> Symptoms { get; init; } = Symptoms ?? [];
     public IReadOnlyList<string> RawSectionsFound { get; init; } = RawSectionsFound ?? [];
+    public IReadOnlyList<string> EmptySections { get; init; } = EmptySections ?? [];
 }

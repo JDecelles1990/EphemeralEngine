@@ -27,3 +27,4 @@ public sealed class RF003_MissingTitleRule : IRunbookRule
         return ValueTask.FromResult<IReadOnlyList<LintDiagnostic>>([]);
     }
 }
+

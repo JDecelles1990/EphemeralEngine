@@ -13,3 +13,4 @@ C:\LAB\Python\EphemeralEngine\src\Modules\AICriticAndTraining\Domain\obj\Debug\n
 C:\LAB\Python\EphemeralEngine\src\Modules\AICriticAndTraining\Domain\obj\Debug\net9.0\refint\RunbookForge.Modules.AICriticAndTraining.Domain.dll
 C:\LAB\Python\EphemeralEngine\src\Modules\AICriticAndTraining\Domain\obj\Debug\net9.0\RunbookForge.Modules.AICriticAndTraining.Domain.pdb
 C:\LAB\Python\EphemeralEngine\src\Modules\AICriticAndTraining\Domain\obj\Debug\net9.0\ref\RunbookForge.Modules.AICriticAndTraining.Domain.dll
+C:\LAB\Python\EphemeralEngine\src\Modules\AICriticAndTraining\Domain\obj\Debug\net9.0\RunbookForge.Modules.AICriticAndTraining.Domain.sourcelink.json

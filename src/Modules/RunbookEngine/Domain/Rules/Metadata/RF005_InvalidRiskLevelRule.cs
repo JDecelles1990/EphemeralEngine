@@ -35,3 +35,4 @@ public sealed class RF005_InvalidRiskLevelRule : IRunbookRule
         return ValueTask.FromResult<IReadOnlyList<LintDiagnostic>>([]);
     }
 }
+

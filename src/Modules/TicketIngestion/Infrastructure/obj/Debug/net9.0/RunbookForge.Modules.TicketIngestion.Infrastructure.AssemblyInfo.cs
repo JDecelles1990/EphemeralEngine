@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RunbookForge.Modules.TicketIngestion.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70e764538c4f03e2c98cbe1f39b10ecf24d62c47")]
 [assembly: System.Reflection.AssemblyProductAttribute("RunbookForge.Modules.TicketIngestion.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RunbookForge.Modules.TicketIngestion.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

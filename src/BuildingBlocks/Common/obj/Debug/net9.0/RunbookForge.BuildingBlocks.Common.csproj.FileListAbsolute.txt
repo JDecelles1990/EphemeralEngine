@@ -10,3 +10,4 @@ C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Common\obj\Debug\net9.0\Runbook
 C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Common\obj\Debug\net9.0\refint\RunbookForge.BuildingBlocks.Common.dll
 C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Common\obj\Debug\net9.0\RunbookForge.BuildingBlocks.Common.pdb
 C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Common\obj\Debug\net9.0\ref\RunbookForge.BuildingBlocks.Common.dll
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Common\obj\Debug\net9.0\RunbookForge.BuildingBlocks.Common.sourcelink.json

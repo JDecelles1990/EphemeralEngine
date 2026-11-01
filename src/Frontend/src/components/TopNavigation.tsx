@@ -114,7 +114,7 @@ export const TopNavigation: React.FC<TopNavigationProps> = ({
               <span className="font-mono text-slate-300">Stack Verified</span>
               <span className="text-slate-600">|</span>
               <span className="text-emerald-400 flex items-center gap-1 font-mono text-[11px]">
-                <CheckCircle2 className="w-3 h-3 inline" /> 155/155 Tests Pass
+                <CheckCircle2 className="w-3 h-3 inline" /> 186/186 Tests Pass
               </span>
             </div>
           </div>

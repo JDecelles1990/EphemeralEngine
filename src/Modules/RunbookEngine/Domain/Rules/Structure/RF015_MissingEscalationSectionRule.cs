@@ -29,3 +29,4 @@ public sealed class RF015_MissingEscalationSectionRule : IRunbookRule
         return ValueTask.FromResult<IReadOnlyList<LintDiagnostic>>([]);
     }
 }
+

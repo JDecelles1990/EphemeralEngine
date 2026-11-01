@@ -32,3 +32,4 @@ public sealed class RunbookLinterEngine
         return LinterReport.Create(diagnostics);
     }
 }
+

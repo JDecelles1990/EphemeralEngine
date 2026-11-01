@@ -21,3 +21,4 @@ C:\LAB\Python\EphemeralEngine\src\Modules\RunbookEngine\Infrastructure\obj\Debug
 C:\LAB\Python\EphemeralEngine\src\Modules\RunbookEngine\Infrastructure\obj\Debug\net9.0\ref\RunbookForge.Modules.RunbookEngine.Infrastructure.dll
 C:\LAB\Python\EphemeralEngine\src\Modules\RunbookEngine\Infrastructure\bin\Debug\net9.0\RunbookForge.Modules.RunbookEngine.Infrastructure.runtimeconfig.json
 C:\LAB\Python\EphemeralEngine\src\Modules\RunbookEngine\Infrastructure\obj\Debug\net9.0\RunbookForge.Modules.RunbookEngine.Infrastructure.genruntimeconfig.cache
+C:\LAB\Python\EphemeralEngine\src\Modules\RunbookEngine\Infrastructure\obj\Debug\net9.0\RunbookForge.Modules.RunbookEngine.Infrastructure.sourcelink.json

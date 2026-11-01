@@ -8,3 +8,4 @@ public sealed record LintDiagnostic(
     string Message,
     int? LineNumber = null,
     string? TargetNodeId = null);
+

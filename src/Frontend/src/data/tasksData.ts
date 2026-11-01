@@ -317,7 +317,7 @@ export const TASKS_DATA: TaskDefinition[] = [
     module: 'RunbookEngine',
     schema: 'runbooks',
     layer: 'RunbookEngine.Application',
-    status: 'IN_PROGRESS',
+    status: 'COMPLETED',
     contextSpecs: [
       'docs/standards/MARKDOWN-PARSER-STANDARDS.md',
       'docs/01-MODULE-REGISTRY.md'
@@ -468,7 +468,7 @@ export const TASKS_DATA: TaskDefinition[] = [
     module: 'TicketIngestion',
     schema: 'ingestion',
     layer: 'TicketIngestion.Infrastructure',
-    status: 'PLANNED',
+    status: 'IN_PROGRESS',
     contextSpecs: [
       'docs/database/DB-02-SCHEMA-INGESTION.md',
       'docs/standards/POSTGRES-SQL-STANDARDS.md'

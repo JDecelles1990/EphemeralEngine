@@ -345,3 +345,4 @@ public class MetadataRuleTests
         diagnostics.Should().BeEmpty();
     }
 }
+

@@ -30,3 +30,4 @@ public sealed class RF014_MissingValidationSectionRule : IRunbookRule
         return ValueTask.FromResult<IReadOnlyList<LintDiagnostic>>([]);
     }
 }
+

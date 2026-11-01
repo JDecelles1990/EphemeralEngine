@@ -31,3 +31,4 @@ public sealed class RF001_MissingFrontmatterRule : IRunbookRule
         return ValueTask.FromResult<IReadOnlyList<LintDiagnostic>>([]);
     }
 }
+

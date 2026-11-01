@@ -13,3 +13,4 @@ C:\LAB\Python\EphemeralEngine\src\Modules\GapAnalyzer\Domain\obj\Debug\net9.0\Ru
 C:\LAB\Python\EphemeralEngine\src\Modules\GapAnalyzer\Domain\obj\Debug\net9.0\refint\RunbookForge.Modules.GapAnalyzer.Domain.dll
 C:\LAB\Python\EphemeralEngine\src\Modules\GapAnalyzer\Domain\obj\Debug\net9.0\RunbookForge.Modules.GapAnalyzer.Domain.pdb
 C:\LAB\Python\EphemeralEngine\src\Modules\GapAnalyzer\Domain\obj\Debug\net9.0\ref\RunbookForge.Modules.GapAnalyzer.Domain.dll
+C:\LAB\Python\EphemeralEngine\src\Modules\GapAnalyzer\Domain\obj\Debug\net9.0\RunbookForge.Modules.GapAnalyzer.Domain.sourcelink.json

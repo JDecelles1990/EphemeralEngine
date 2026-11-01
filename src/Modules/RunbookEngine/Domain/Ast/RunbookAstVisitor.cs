@@ -20,6 +20,10 @@ public static class RunbookAstVisitor
         var escalationTriggers = new List<string>();
         var symptoms = new List<string>();
         var rawSectionsFound = new List<string>();
+        var emptySections = new List<string>();
+
+        string? currentSectionHeading = null;
+        var currentSectionHasContent = false;
 
         var inEscalationSection = false;
         var inSymptomsSection = false;
@@ -30,14 +34,26 @@ public static class RunbookAstVisitor
 
             if (block is HeadingBlock heading)
             {
+                if (currentSectionHeading != null && !currentSectionHasContent)
+                {
+                    emptySections.Add(currentSectionHeading);
+                }
+
                 var headingText = ExtractHeadingText(heading, rawMarkdown);
                 if (!string.IsNullOrWhiteSpace(headingText))
                 {
                     rawSectionsFound.Add(headingText);
+                    currentSectionHeading = headingText;
+                    currentSectionHasContent = false;
                 }
                 inEscalationSection = headingText.Contains("Escalation", StringComparison.OrdinalIgnoreCase);
                 inSymptomsSection = headingText.Contains("Symptoms", StringComparison.OrdinalIgnoreCase);
                 continue;
+            }
+
+            if (currentSectionHeading != null)
+            {
+                currentSectionHasContent = true;
             }
 
             if (inEscalationSection && block is ListBlock listBlock)
@@ -72,7 +88,12 @@ public static class RunbookAstVisitor
             }
         }
 
-        return new RunbookAstDocument(metadata, steps, escalationTriggers, rawMarkdown, symptoms, rawSectionsFound);
+        if (currentSectionHeading != null && !currentSectionHasContent)
+        {
+            emptySections.Add(currentSectionHeading);
+        }
+
+        return new RunbookAstDocument(metadata, steps, escalationTriggers, rawMarkdown, symptoms, rawSectionsFound, emptySections);
     }
 
     private static RunbookMetadata ExtractMetadata(MarkdownDocument document, string rawMarkdown)

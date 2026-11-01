@@ -21,3 +21,4 @@ public sealed class LintRunbookHandler(RunbookLinterEngine linterEngine)
         return Result<LinterReport>.Success(report);
     }
 }
+

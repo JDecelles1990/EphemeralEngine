@@ -13,3 +13,4 @@ C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Web\obj\Debug\net9.0\RunbookFor
 C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Web\obj\Debug\net9.0\refint\RunbookForge.BuildingBlocks.Web.dll
 C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Web\obj\Debug\net9.0\RunbookForge.BuildingBlocks.Web.pdb
 C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Web\obj\Debug\net9.0\ref\RunbookForge.BuildingBlocks.Web.dll
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Web\obj\Debug\net9.0\RunbookForge.BuildingBlocks.Web.sourcelink.json

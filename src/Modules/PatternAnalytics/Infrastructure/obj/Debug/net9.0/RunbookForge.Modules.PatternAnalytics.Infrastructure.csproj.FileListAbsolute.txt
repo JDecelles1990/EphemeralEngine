@@ -19,3 +19,4 @@ C:\LAB\Python\EphemeralEngine\src\Modules\PatternAnalytics\Infrastructure\obj\De
 C:\LAB\Python\EphemeralEngine\src\Modules\PatternAnalytics\Infrastructure\obj\Debug\net9.0\refint\RunbookForge.Modules.PatternAnalytics.Infrastructure.dll
 C:\LAB\Python\EphemeralEngine\src\Modules\PatternAnalytics\Infrastructure\obj\Debug\net9.0\RunbookForge.Modules.PatternAnalytics.Infrastructure.pdb
 C:\LAB\Python\EphemeralEngine\src\Modules\PatternAnalytics\Infrastructure\obj\Debug\net9.0\ref\RunbookForge.Modules.PatternAnalytics.Infrastructure.dll
+C:\LAB\Python\EphemeralEngine\src\Modules\PatternAnalytics\Infrastructure\obj\Debug\net9.0\RunbookForge.Modules.PatternAnalytics.Infrastructure.sourcelink.json

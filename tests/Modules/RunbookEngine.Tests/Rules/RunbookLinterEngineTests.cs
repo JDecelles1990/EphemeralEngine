@@ -43,10 +43,10 @@ public class RunbookLinterEngineTests
                     [new AssertionNode("stdout", "contains", "GigabitEthernet0/1")],
                     [])
             ],
-            EscalationTriggers: ["MTTR exceeds 15 minutes without buffer clearance"],
-            RawMarkdown: "# Test",
+            EscalationTriggers: ["Escalate to Network NOC team if MTTR exceeds 15 minutes"],
+            RawMarkdown: "# Test\nSee https://wiki.internal/network-troubleshooting for references.",
             Symptoms: ["Packet drop alarms", "High CPU on switch ASIC"],
-            RawSectionsFound: ["Symptoms", "Diagnostics", "Remediation", "Validation", "Escalation"]);
+            RawSectionsFound: ["Symptoms", "Scope", "Diagnostics", "Remediation", "Validation", "Escalation", "References"]);
 
     [Fact]
     public async Task LintAsync_ShouldReturnScore100AndNoDiagnostics_WhenAstIsFullyCompliant()
@@ -151,3 +151,4 @@ public class RunbookLinterEngineTests
         report.Diagnostics.Should().Contain(d => d.RuleId == "RF015"); // missing escalation
     }
 }
+

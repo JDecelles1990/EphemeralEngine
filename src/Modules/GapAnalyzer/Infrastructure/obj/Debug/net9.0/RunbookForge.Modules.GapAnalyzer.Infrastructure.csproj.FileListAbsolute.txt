@@ -19,3 +19,4 @@ C:\LAB\Python\EphemeralEngine\src\Modules\GapAnalyzer\Infrastructure\obj\Debug\n
 C:\LAB\Python\EphemeralEngine\src\Modules\GapAnalyzer\Infrastructure\obj\Debug\net9.0\refint\RunbookForge.Modules.GapAnalyzer.Infrastructure.dll
 C:\LAB\Python\EphemeralEngine\src\Modules\GapAnalyzer\Infrastructure\obj\Debug\net9.0\RunbookForge.Modules.GapAnalyzer.Infrastructure.pdb
 C:\LAB\Python\EphemeralEngine\src\Modules\GapAnalyzer\Infrastructure\obj\Debug\net9.0\ref\RunbookForge.Modules.GapAnalyzer.Infrastructure.dll
+C:\LAB\Python\EphemeralEngine\src\Modules\GapAnalyzer\Infrastructure\obj\Debug\net9.0\RunbookForge.Modules.GapAnalyzer.Infrastructure.sourcelink.json

@@ -35,3 +35,4 @@ public sealed class RF006_MissingSupportTierRule : IRunbookRule
         return ValueTask.FromResult<IReadOnlyList<LintDiagnostic>>([]);
     }
 }
+

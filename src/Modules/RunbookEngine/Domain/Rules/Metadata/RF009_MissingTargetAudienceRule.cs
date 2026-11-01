@@ -29,3 +29,4 @@ public sealed class RF009_MissingTargetAudienceRule : IRunbookRule
         return ValueTask.FromResult<IReadOnlyList<LintDiagnostic>>([]);
     }
 }
+

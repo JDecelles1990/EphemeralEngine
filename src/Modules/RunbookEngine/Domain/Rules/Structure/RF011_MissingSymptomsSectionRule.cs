@@ -29,3 +29,4 @@ public sealed class RF011_MissingSymptomsSectionRule : IRunbookRule
         return ValueTask.FromResult<IReadOnlyList<LintDiagnostic>>([]);
     }
 }
+

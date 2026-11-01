@@ -28,3 +28,4 @@ public sealed class RF013_MissingRemediationSectionRule : IRunbookRule
         return ValueTask.FromResult<IReadOnlyList<LintDiagnostic>>([]);
     }
 }
+

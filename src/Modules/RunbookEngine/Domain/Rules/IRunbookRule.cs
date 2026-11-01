@@ -12,3 +12,4 @@ public interface IRunbookRule
 
     ValueTask<IReadOnlyList<LintDiagnostic>> EvaluateAsync(RunbookAstDocument ast, CancellationToken ct = default);
 }
+

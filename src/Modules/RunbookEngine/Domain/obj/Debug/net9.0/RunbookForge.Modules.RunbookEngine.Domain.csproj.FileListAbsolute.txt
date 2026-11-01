@@ -13,3 +13,4 @@ C:\LAB\Python\EphemeralEngine\src\Modules\RunbookEngine\Domain\obj\Debug\net9.0\
 C:\LAB\Python\EphemeralEngine\src\Modules\RunbookEngine\Domain\obj\Debug\net9.0\refint\RunbookForge.Modules.RunbookEngine.Domain.dll
 C:\LAB\Python\EphemeralEngine\src\Modules\RunbookEngine\Domain\obj\Debug\net9.0\RunbookForge.Modules.RunbookEngine.Domain.pdb
 C:\LAB\Python\EphemeralEngine\src\Modules\RunbookEngine\Domain\obj\Debug\net9.0\ref\RunbookForge.Modules.RunbookEngine.Domain.dll
+C:\LAB\Python\EphemeralEngine\src\Modules\RunbookEngine\Domain\obj\Debug\net9.0\RunbookForge.Modules.RunbookEngine.Domain.sourcelink.json

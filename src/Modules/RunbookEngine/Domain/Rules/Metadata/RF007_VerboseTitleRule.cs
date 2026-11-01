@@ -30,3 +30,4 @@ public sealed class RF007_VerboseTitleRule : IRunbookRule
         return ValueTask.FromResult<IReadOnlyList<LintDiagnostic>>([]);
     }
 }
+

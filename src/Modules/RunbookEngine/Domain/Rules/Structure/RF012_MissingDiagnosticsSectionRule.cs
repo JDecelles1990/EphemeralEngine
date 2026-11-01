@@ -32,3 +32,4 @@ public sealed class RF012_MissingDiagnosticsSectionRule : IRunbookRule
         return ValueTask.FromResult<IReadOnlyList<LintDiagnostic>>([]);
     }
 }
+

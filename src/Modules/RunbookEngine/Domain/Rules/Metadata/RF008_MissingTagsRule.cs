@@ -26,3 +26,4 @@ public sealed class RF008_MissingTagsRule : IRunbookRule
         return ValueTask.FromResult<IReadOnlyList<LintDiagnostic>>([]);
     }
 }
+

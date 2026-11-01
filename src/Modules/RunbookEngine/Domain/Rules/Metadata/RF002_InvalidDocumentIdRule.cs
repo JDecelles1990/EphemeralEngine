@@ -33,3 +33,4 @@ public sealed partial class RF002_InvalidDocumentIdRule : IRunbookRule
         return ValueTask.FromResult<IReadOnlyList<LintDiagnostic>>([]);
     }
 }
+

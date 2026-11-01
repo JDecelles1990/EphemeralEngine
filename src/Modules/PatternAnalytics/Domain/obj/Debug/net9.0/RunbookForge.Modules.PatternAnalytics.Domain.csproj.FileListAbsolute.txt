@@ -13,3 +13,4 @@ C:\LAB\Python\EphemeralEngine\src\Modules\PatternAnalytics\Domain\obj\Debug\net9
 C:\LAB\Python\EphemeralEngine\src\Modules\PatternAnalytics\Domain\obj\Debug\net9.0\refint\RunbookForge.Modules.PatternAnalytics.Domain.dll
 C:\LAB\Python\EphemeralEngine\src\Modules\PatternAnalytics\Domain\obj\Debug\net9.0\RunbookForge.Modules.PatternAnalytics.Domain.pdb
 C:\LAB\Python\EphemeralEngine\src\Modules\PatternAnalytics\Domain\obj\Debug\net9.0\ref\RunbookForge.Modules.PatternAnalytics.Domain.dll
+C:\LAB\Python\EphemeralEngine\src\Modules\PatternAnalytics\Domain\obj\Debug\net9.0\RunbookForge.Modules.PatternAnalytics.Domain.sourcelink.json

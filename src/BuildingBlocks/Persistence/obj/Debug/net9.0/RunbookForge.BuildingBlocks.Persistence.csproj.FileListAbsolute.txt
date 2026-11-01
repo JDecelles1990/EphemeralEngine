@@ -13,3 +13,4 @@ C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Persistence\obj\Debug\net9.0\Ru
 C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Persistence\obj\Debug\net9.0\refint\RunbookForge.BuildingBlocks.Persistence.dll
 C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Persistence\obj\Debug\net9.0\RunbookForge.BuildingBlocks.Persistence.pdb
 C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Persistence\obj\Debug\net9.0\ref\RunbookForge.BuildingBlocks.Persistence.dll
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Persistence\obj\Debug\net9.0\RunbookForge.BuildingBlocks.Persistence.sourcelink.json

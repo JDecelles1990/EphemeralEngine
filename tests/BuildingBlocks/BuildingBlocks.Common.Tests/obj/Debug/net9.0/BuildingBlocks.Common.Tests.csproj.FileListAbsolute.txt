@@ -118,3 +118,4 @@ C:\LAB\Python\EphemeralEngine\tests\BuildingBlocks\BuildingBlocks.Common.Tests\o
 C:\LAB\Python\EphemeralEngine\tests\BuildingBlocks\BuildingBlocks.Common.Tests\obj\Debug\net9.0\BuildingBlocks.Common.Tests.pdb
 C:\LAB\Python\EphemeralEngine\tests\BuildingBlocks\BuildingBlocks.Common.Tests\obj\Debug\net9.0\BuildingBlocks.Common.Tests.genruntimeconfig.cache
 C:\LAB\Python\EphemeralEngine\tests\BuildingBlocks\BuildingBlocks.Common.Tests\obj\Debug\net9.0\ref\BuildingBlocks.Common.Tests.dll
+C:\LAB\Python\EphemeralEngine\tests\BuildingBlocks\BuildingBlocks.Common.Tests\obj\Debug\net9.0\BuildingBlocks.Common.Tests.sourcelink.json

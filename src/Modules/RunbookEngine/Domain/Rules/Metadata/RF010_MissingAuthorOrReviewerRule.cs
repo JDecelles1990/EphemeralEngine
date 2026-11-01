@@ -30,3 +30,4 @@ public sealed class RF010_MissingAuthorOrReviewerRule : IRunbookRule
         return ValueTask.FromResult<IReadOnlyList<LintDiagnostic>>([]);
     }
 }
+
