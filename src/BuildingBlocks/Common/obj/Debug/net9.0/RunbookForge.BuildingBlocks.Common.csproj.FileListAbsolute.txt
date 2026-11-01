@@ -1,0 +1,12 @@
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Common\obj\Debug\net9.0\RunbookForge.BuildingBlocks.Common.csproj.AssemblyReference.cache
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Common\obj\Debug\net9.0\RunbookForge.BuildingBlocks.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Common\obj\Debug\net9.0\RunbookForge.BuildingBlocks.Common.AssemblyInfoInputs.cache
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Common\obj\Debug\net9.0\RunbookForge.BuildingBlocks.Common.AssemblyInfo.cs
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Common\obj\Debug\net9.0\RunbookForge.BuildingBlocks.Common.csproj.CoreCompileInputs.cache
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Common\bin\Debug\net9.0\RunbookForge.BuildingBlocks.Common.deps.json
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Common\bin\Debug\net9.0\RunbookForge.BuildingBlocks.Common.dll
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Common\bin\Debug\net9.0\RunbookForge.BuildingBlocks.Common.pdb
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Common\obj\Debug\net9.0\RunbookForge.BuildingBlocks.Common.dll
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Common\obj\Debug\net9.0\refint\RunbookForge.BuildingBlocks.Common.dll
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Common\obj\Debug\net9.0\RunbookForge.BuildingBlocks.Common.pdb
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Common\obj\Debug\net9.0\ref\RunbookForge.BuildingBlocks.Common.dll

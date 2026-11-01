@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <RootNamespace>RunbookForge.WebApi</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BuildingBlocks\Common\RunbookForge.BuildingBlocks.Common.csproj" />
+    <ProjectReference Include="..\BuildingBlocks\Persistence\RunbookForge.BuildingBlocks.Persistence.csproj" />
+    <ProjectReference Include="..\BuildingBlocks\Web\RunbookForge.BuildingBlocks.Web.csproj" />
+    <ProjectReference Include="..\Modules\RunbookEngine\Infrastructure\RunbookForge.Modules.RunbookEngine.Infrastructure.csproj" />
+    <ProjectReference Include="..\Modules\TicketIngestion\Infrastructure\RunbookForge.Modules.TicketIngestion.Infrastructure.csproj" />
+    <ProjectReference Include="..\Modules\PatternAnalytics\Infrastructure\RunbookForge.Modules.PatternAnalytics.Infrastructure.csproj" />
+    <ProjectReference Include="..\Modules\GapAnalyzer\Infrastructure\RunbookForge.Modules.GapAnalyzer.Infrastructure.csproj" />
+    <ProjectReference Include="..\Modules\AICriticAndTraining\Infrastructure\RunbookForge.Modules.AICriticAndTraining.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="7.2.0" />
+    <PackageReference Include="Serilog.AspNetCore" Version="9.0.0" />
+  </ItemGroup>
+
+</Project>
+

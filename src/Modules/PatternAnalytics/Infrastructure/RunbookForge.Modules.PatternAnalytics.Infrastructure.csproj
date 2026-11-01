@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>RunbookForge.Modules.PatternAnalytics.Infrastructure</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Application\RunbookForge.Modules.PatternAnalytics.Application.csproj" />
+    <ProjectReference Include="..\..\..\BuildingBlocks\Persistence\RunbookForge.BuildingBlocks.Persistence.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Pgvector.EntityFrameworkCore" Version="0.2.1" />
+  </ItemGroup>
+
+</Project>
+

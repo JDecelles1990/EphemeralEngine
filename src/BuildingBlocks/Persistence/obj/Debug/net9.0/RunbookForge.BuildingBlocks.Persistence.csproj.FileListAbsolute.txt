@@ -1,0 +1,15 @@
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Persistence\bin\Debug\net9.0\RunbookForge.BuildingBlocks.Persistence.deps.json
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Persistence\bin\Debug\net9.0\RunbookForge.BuildingBlocks.Persistence.dll
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Persistence\bin\Debug\net9.0\RunbookForge.BuildingBlocks.Persistence.pdb
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Persistence\bin\Debug\net9.0\RunbookForge.BuildingBlocks.Common.dll
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Persistence\bin\Debug\net9.0\RunbookForge.BuildingBlocks.Common.pdb
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Persistence\obj\Debug\net9.0\RunbookForge.BuildingBlocks.Persistence.csproj.AssemblyReference.cache
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Persistence\obj\Debug\net9.0\RunbookForge.BuildingBlocks.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Persistence\obj\Debug\net9.0\RunbookForge.BuildingBlocks.Persistence.AssemblyInfoInputs.cache
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Persistence\obj\Debug\net9.0\RunbookForge.BuildingBlocks.Persistence.AssemblyInfo.cs
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Persistence\obj\Debug\net9.0\RunbookForge.BuildingBlocks.Persistence.csproj.CoreCompileInputs.cache
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Persistence\obj\Debug\net9.0\RunbookF.3261A431.Up2Date
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Persistence\obj\Debug\net9.0\RunbookForge.BuildingBlocks.Persistence.dll
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Persistence\obj\Debug\net9.0\refint\RunbookForge.BuildingBlocks.Persistence.dll
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Persistence\obj\Debug\net9.0\RunbookForge.BuildingBlocks.Persistence.pdb
+C:\LAB\Python\EphemeralEngine\src\BuildingBlocks\Persistence\obj\Debug\net9.0\ref\RunbookForge.BuildingBlocks.Persistence.dll

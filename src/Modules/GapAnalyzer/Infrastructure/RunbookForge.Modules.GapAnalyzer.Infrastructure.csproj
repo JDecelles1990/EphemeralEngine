@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>RunbookForge.Modules.GapAnalyzer.Infrastructure</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Application\RunbookForge.Modules.GapAnalyzer.Application.csproj" />
+    <ProjectReference Include="..\..\..\BuildingBlocks\Persistence\RunbookForge.BuildingBlocks.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>
+

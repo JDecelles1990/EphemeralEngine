@@ -1,0 +1,17 @@
+C:\LAB\Python\EphemeralEngine\src\Modules\PatternAnalytics\Application\bin\Debug\net9.0\RunbookForge.Modules.PatternAnalytics.Application.deps.json
+C:\LAB\Python\EphemeralEngine\src\Modules\PatternAnalytics\Application\bin\Debug\net9.0\RunbookForge.Modules.PatternAnalytics.Application.dll
+C:\LAB\Python\EphemeralEngine\src\Modules\PatternAnalytics\Application\bin\Debug\net9.0\RunbookForge.Modules.PatternAnalytics.Application.pdb
+C:\LAB\Python\EphemeralEngine\src\Modules\PatternAnalytics\Application\bin\Debug\net9.0\RunbookForge.BuildingBlocks.Common.dll
+C:\LAB\Python\EphemeralEngine\src\Modules\PatternAnalytics\Application\bin\Debug\net9.0\RunbookForge.Modules.PatternAnalytics.Domain.dll
+C:\LAB\Python\EphemeralEngine\src\Modules\PatternAnalytics\Application\bin\Debug\net9.0\RunbookForge.Modules.PatternAnalytics.Domain.pdb
+C:\LAB\Python\EphemeralEngine\src\Modules\PatternAnalytics\Application\bin\Debug\net9.0\RunbookForge.BuildingBlocks.Common.pdb
+C:\LAB\Python\EphemeralEngine\src\Modules\PatternAnalytics\Application\obj\Debug\net9.0\RunbookForge.Modules.PatternAnalytics.Application.csproj.AssemblyReference.cache
+C:\LAB\Python\EphemeralEngine\src\Modules\PatternAnalytics\Application\obj\Debug\net9.0\RunbookForge.Modules.PatternAnalytics.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAB\Python\EphemeralEngine\src\Modules\PatternAnalytics\Application\obj\Debug\net9.0\RunbookForge.Modules.PatternAnalytics.Application.AssemblyInfoInputs.cache
+C:\LAB\Python\EphemeralEngine\src\Modules\PatternAnalytics\Application\obj\Debug\net9.0\RunbookForge.Modules.PatternAnalytics.Application.AssemblyInfo.cs
+C:\LAB\Python\EphemeralEngine\src\Modules\PatternAnalytics\Application\obj\Debug\net9.0\RunbookForge.Modules.PatternAnalytics.Application.csproj.CoreCompileInputs.cache
+C:\LAB\Python\EphemeralEngine\src\Modules\PatternAnalytics\Application\obj\Debug\net9.0\RunbookF.ADF2B98C.Up2Date
+C:\LAB\Python\EphemeralEngine\src\Modules\PatternAnalytics\Application\obj\Debug\net9.0\RunbookForge.Modules.PatternAnalytics.Application.dll
+C:\LAB\Python\EphemeralEngine\src\Modules\PatternAnalytics\Application\obj\Debug\net9.0\refint\RunbookForge.Modules.PatternAnalytics.Application.dll
+C:\LAB\Python\EphemeralEngine\src\Modules\PatternAnalytics\Application\obj\Debug\net9.0\RunbookForge.Modules.PatternAnalytics.Application.pdb
+C:\LAB\Python\EphemeralEngine\src\Modules\PatternAnalytics\Application\obj\Debug\net9.0\ref\RunbookForge.Modules.PatternAnalytics.Application.dll

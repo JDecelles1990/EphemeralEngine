@@ -1,0 +1,17 @@
+C:\LAB\Python\EphemeralEngine\src\Modules\AICriticAndTraining\Application\bin\Debug\net9.0\RunbookForge.Modules.AICriticAndTraining.Application.deps.json
+C:\LAB\Python\EphemeralEngine\src\Modules\AICriticAndTraining\Application\bin\Debug\net9.0\RunbookForge.Modules.AICriticAndTraining.Application.dll
+C:\LAB\Python\EphemeralEngine\src\Modules\AICriticAndTraining\Application\bin\Debug\net9.0\RunbookForge.Modules.AICriticAndTraining.Application.pdb
+C:\LAB\Python\EphemeralEngine\src\Modules\AICriticAndTraining\Application\bin\Debug\net9.0\RunbookForge.BuildingBlocks.Common.dll
+C:\LAB\Python\EphemeralEngine\src\Modules\AICriticAndTraining\Application\bin\Debug\net9.0\RunbookForge.Modules.AICriticAndTraining.Domain.dll
+C:\LAB\Python\EphemeralEngine\src\Modules\AICriticAndTraining\Application\bin\Debug\net9.0\RunbookForge.Modules.AICriticAndTraining.Domain.pdb
+C:\LAB\Python\EphemeralEngine\src\Modules\AICriticAndTraining\Application\bin\Debug\net9.0\RunbookForge.BuildingBlocks.Common.pdb
+C:\LAB\Python\EphemeralEngine\src\Modules\AICriticAndTraining\Application\obj\Debug\net9.0\RunbookForge.Modules.AICriticAndTraining.Application.csproj.AssemblyReference.cache
+C:\LAB\Python\EphemeralEngine\src\Modules\AICriticAndTraining\Application\obj\Debug\net9.0\RunbookForge.Modules.AICriticAndTraining.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAB\Python\EphemeralEngine\src\Modules\AICriticAndTraining\Application\obj\Debug\net9.0\RunbookForge.Modules.AICriticAndTraining.Application.AssemblyInfoInputs.cache
+C:\LAB\Python\EphemeralEngine\src\Modules\AICriticAndTraining\Application\obj\Debug\net9.0\RunbookForge.Modules.AICriticAndTraining.Application.AssemblyInfo.cs
+C:\LAB\Python\EphemeralEngine\src\Modules\AICriticAndTraining\Application\obj\Debug\net9.0\RunbookForge.Modules.AICriticAndTraining.Application.csproj.CoreCompileInputs.cache
+C:\LAB\Python\EphemeralEngine\src\Modules\AICriticAndTraining\Application\obj\Debug\net9.0\RunbookF.0C9CE893.Up2Date
+C:\LAB\Python\EphemeralEngine\src\Modules\AICriticAndTraining\Application\obj\Debug\net9.0\RunbookForge.Modules.AICriticAndTraining.Application.dll
+C:\LAB\Python\EphemeralEngine\src\Modules\AICriticAndTraining\Application\obj\Debug\net9.0\refint\RunbookForge.Modules.AICriticAndTraining.Application.dll
+C:\LAB\Python\EphemeralEngine\src\Modules\AICriticAndTraining\Application\obj\Debug\net9.0\RunbookForge.Modules.AICriticAndTraining.Application.pdb
+C:\LAB\Python\EphemeralEngine\src\Modules\AICriticAndTraining\Application\obj\Debug\net9.0\ref\RunbookForge.Modules.AICriticAndTraining.Application.dll

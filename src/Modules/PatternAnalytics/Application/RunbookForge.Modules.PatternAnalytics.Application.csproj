@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>RunbookForge.Modules.PatternAnalytics.Application</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\RunbookForge.Modules.PatternAnalytics.Domain.csproj" />
+    <ProjectReference Include="..\..\..\BuildingBlocks\Common\RunbookForge.BuildingBlocks.Common.csproj" />
+  </ItemGroup>
+
+</Project>
+
